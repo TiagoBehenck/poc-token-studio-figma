@@ -2,6 +2,8 @@
 
 [Token Studio](https://tokens.studio/)
 
+[Figma Example](https://www.figma.com/file/o9ZJHXauY39eQGv8teF51H/POC-Plugin-Token-Studio?type=design&node-id=7%3A23&mode=design&t=zc3LHuchxSg8P2kQ-1)
+
 
 [Token Studio with Style Dictionary](https://docs.tokens.studio/pt-br/transforming/style-dictionary)
 [@tokens-studio/sd-transforms](https://www.npmjs.com/package/@tokens-studio/sd-transforms)
