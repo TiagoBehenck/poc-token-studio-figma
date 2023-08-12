@@ -1,6 +1,14 @@
 {
+  "POC": {
+    "Very Light Purple": {
+      "value": "#f6cefc",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
-    "tokenSetOrder": []
+    "tokenSetOrder": [
+      "POC"
+    ]
   }
 }
