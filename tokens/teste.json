@@ -246,6 +246,10 @@
         "value": "0px",
         "type": "dimension"
       }
+    },
+    "teste": {
+      "value": "#e3f1dd",
+      "type": "color"
     }
   },
   "$themes": [],
