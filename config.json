@@ -1,0 +1,19 @@
+{
+  "source": [
+    "tokens/*.json"
+  ],
+  "platforms": {
+    "css": {
+      "transforms": [
+        "color/css",
+        "name/cti/kebab"
+      ],
+      "files": [
+        {
+          "format": "css/variables",
+          "destination": "build/css/variables.css"
+        }
+      ]
+    }
+  }
+}

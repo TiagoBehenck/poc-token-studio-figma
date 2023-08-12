@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "style-dictionary build"
+  },
+  "dependencies": {
+    "@tokens-studio/sd-transforms": "0.9.2",
+    "style-dictionary": "^3.8.0"
+  }
+}
