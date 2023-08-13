@@ -1,5 +1,13 @@
 # POC with Tokens Studio for Figma
 
+My setup: 
+
+`❯ node -v:             
+v18.16.1`
+
+`❯ npm -v:               
+9.5.1`
+
 [Token Studio](https://tokens.studio/)
 
 [Figma Example](https://www.figma.com/file/o9ZJHXauY39eQGv8teF51H/POC-Plugin-Token-Studio?type=design&node-id=7%3A23&mode=design&t=zc3LHuchxSg8P2kQ-1)
