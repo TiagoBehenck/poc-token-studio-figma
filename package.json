@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "build": "style-dictionary build"
+    "build": "node build-tokens.js"
   },
   "dependencies": {
     "@tokens-studio/sd-transforms": "^0.11.0",
