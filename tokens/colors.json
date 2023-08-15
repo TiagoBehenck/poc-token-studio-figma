@@ -1,9 +1,52 @@
 {
   "global": {},
+  "Style Guide": {
+    "Light": {
+      "value": "#e6ecf3",
+      "type": "color"
+    },
+    "Light :hover": {
+      "value": "#d9e2ed",
+      "type": "color"
+    },
+    "Light :active": {
+      "value": "#b1c3db",
+      "type": "color"
+    },
+    "Normal": {
+      "value": "#023e8a",
+      "type": "color"
+    },
+    "Normal :hover": {
+      "value": "#02387c",
+      "type": "color"
+    },
+    "Normal :active": {
+      "value": "#02326e",
+      "type": "color"
+    },
+    "Dark": {
+      "value": "#022f68",
+      "type": "color"
+    },
+    "Dark :hover": {
+      "value": "#012553",
+      "type": "color"
+    },
+    "Dark :active": {
+      "value": "#011c3e",
+      "type": "color"
+    },
+    "Darker": {
+      "value": "#011630",
+      "type": "color"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "Style Guide"
     ]
   }
 }
