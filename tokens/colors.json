@@ -1,5 +1,4 @@
 {
-  "global": {},
   "Style Guide": {
     "Light": {
       "value": "#e6ecf3",
@@ -45,7 +44,6 @@
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global",
       "Style Guide"
     ]
   }
